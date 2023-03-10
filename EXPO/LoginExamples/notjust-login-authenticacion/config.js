@@ -1,0 +1,1 @@
+export const BASE_URL = 'http://dev.finder.webmaps.com.mx:3000';
