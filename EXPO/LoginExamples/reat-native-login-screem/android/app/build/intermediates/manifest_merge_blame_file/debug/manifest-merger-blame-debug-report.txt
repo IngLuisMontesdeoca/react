@@ -1,0 +1,279 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="ing.luismontesdeoca"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="31" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:4:3-75
+11-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:4:20-73
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:2:3-64
+12-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:2:20-62
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:3:3-77
+13-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:3:20-75
+14    <uses-permission android:name="android.permission.VIBRATE" />
+14-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:5:3-63
+14-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:5:20-61
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:6:3-78
+15-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:6:20-76
+16
+17    <queries>
+17-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:7:3-13:13
+18        <intent>
+18-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:8:5-12:14
+19            <action android:name="android.intent.action.VIEW" />
+19-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:9:7-58
+19-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:9:15-56
+20
+21            <category android:name="android.intent.category.BROWSABLE" />
+21-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:10:7-67
+21-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:10:17-65
+22
+23            <data android:scheme="https" />
+23-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:11:7-37
+23-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:11:13-35
+24        </intent>
+25
+26        <package android:name="host.exp.exponent" /> <!-- Query open documents -->
+26-->[:expo-dev-launcher] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-dev-launcher/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-53
+26-->[:expo-dev-launcher] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-dev-launcher/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:18-50
+27        <intent>
+27-->[:expo-file-system] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:9-19:18
+28            <action android:name="android.intent.action.OPEN_DOCUMENT_TREE" />
+28-->[:expo-file-system] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-79
+28-->[:expo-file-system] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:21-76
+29        </intent>
+30    </queries>
+31
+32    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+32-->[com.facebook.flipper:flipper:0.125.0] /root/.gradle/caches/transforms-3/2519ecf1336220aa13d20a30c8659e11/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+32-->[com.facebook.flipper:flipper:0.125.0] /root/.gradle/caches/transforms-3/2519ecf1336220aa13d20a30c8659e11/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
+33    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+33-->[com.android.installreferrer:installreferrer:1.0] /root/.gradle/caches/transforms-3/1ee987e94df0dea535e53c1b770639be/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:5-110
+33-->[com.android.installreferrer:installreferrer:1.0] /root/.gradle/caches/transforms-3/1ee987e94df0dea535e53c1b770639be/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:22-107
+34
+35    <application
+35-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:14:3-34:17
+36        android:name="ing.luismontesdeoca.MainApplication"
+36-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:14:16-47
+37        android:allowBackup="true"
+37-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:14:162-188
+38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+38-->[androidx.core:core:1.6.0] /root/.gradle/caches/transforms-3/b650cf5186207d4587f2c20fc86e18c5/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+39        android:debuggable="true"
+40        android:icon="@mipmap/ic_launcher"
+40-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:14:81-115
+41        android:label="@string/app_name"
+41-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:14:48-80
+42        android:roundIcon="@mipmap/ic_launcher_round"
+42-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:14:116-161
+43        android:theme="@style/AppTheme"
+43-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:14:189-220
+44        android:usesCleartextTraffic="true" >
+44-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:14:221-256
+45        <meta-data
+45-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:15:5-82
+46            android:name="expo.modules.updates.ENABLED"
+46-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:15:16-59
+47            android:value="true" />
+47-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:15:60-80
+48        <meta-data
+48-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:16:5-93
+49            android:name="expo.modules.updates.EXPO_SDK_VERSION"
+49-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:16:16-68
+50            android:value="45.0.0" />
+50-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:16:69-91
+51        <meta-data
+51-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:17:5-105
+52            android:name="expo.modules.updates.EXPO_UPDATES_CHECK_ON_LAUNCH"
+52-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:17:16-80
+53            android:value="ALWAYS" />
+53-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:17:81-103
+54        <meta-data
+54-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:18:5-99
+55            android:name="expo.modules.updates.EXPO_UPDATES_LAUNCH_WAIT_MS"
+55-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:18:16-79
+56            android:value="0" />
+56-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:18:80-97
+57        <meta-data
+57-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:19:5-147
+58            android:name="expo.modules.updates.EXPO_UPDATE_URL"
+58-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:19:16-67
+59            android:value="https://exp.host/@ingluismontesdeoca/reat-native-login-screem" />
+59-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:19:68-145
+60
+61        <activity
+61-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:20:5-32:16
+62            android:name="ing.luismontesdeoca.MainActivity"
+62-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:20:15-43
+63            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+63-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:20:77-154
+64            android:exported="true"
+64-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:20:276-299
+65            android:label="@string/app_name"
+65-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:20:44-76
+66            android:launchMode="singleTask"
+66-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:20:155-186
+67            android:screenOrientation="portrait"
+67-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:20:300-336
+68            android:theme="@style/Theme.App.SplashScreen"
+68-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:20:230-275
+69            android:windowSoftInputMode="adjustResize" >
+69-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:20:187-229
+70            <intent-filter>
+70-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:21:7-24:23
+71                <action android:name="android.intent.action.MAIN" />
+71-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:22:9-60
+71-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:22:17-58
+72
+73                <category android:name="android.intent.category.LAUNCHER" />
+73-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:23:9-68
+73-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:23:19-66
+74            </intent-filter>
+75            <intent-filter>
+75-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:25:7-31:23
+76                <action android:name="android.intent.action.VIEW" />
+76-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:9:7-58
+76-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:9:15-56
+77
+78                <category android:name="android.intent.category.DEFAULT" />
+78-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:27:9-67
+78-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:27:19-65
+79                <category android:name="android.intent.category.BROWSABLE" />
+79-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:10:7-67
+79-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:10:17-65
+80
+81                <data android:scheme="ing.luismontesdeoca" />
+81-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:11:7-37
+81-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:11:13-35
+82                <data android:scheme="exp+reat-native-login-screem" />
+82-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:11:7-37
+82-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:11:13-35
+83            </intent-filter>
+84        </activity>
+85        <activity
+85-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:33:5-106
+86            android:name="com.facebook.react.devsupport.DevSettingsActivity"
+86-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:33:15-79
+87            android:exported="false" />
+87-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:33:80-104
+88
+89        <meta-data
+89-->[:expo-dev-launcher] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-dev-launcher/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-16:37
+90            android:name="expo.modules.updates.AUTO_SETUP"
+90-->[:expo-dev-launcher] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-dev-launcher/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-59
+91            android:value="false" />
+91-->[:expo-dev-launcher] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-dev-launcher/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-34
+92
+93        <activity
+93-->[:expo-dev-launcher] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-dev-launcher/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:9-32:20
+94            android:name="expo.modules.devlauncher.launcher.DevLauncherActivity"
+94-->[:expo-dev-launcher] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-dev-launcher/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-81
+95            android:exported="true"
+95-->[:expo-dev-launcher] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-dev-launcher/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-36
+96            android:launchMode="singleTask"
+96-->[:expo-dev-launcher] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-dev-launcher/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-44
+97            android:screenOrientation="portrait"
+97-->[:expo-dev-launcher] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-dev-launcher/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-49
+98            android:theme="@style/Theme.DevLauncher.LauncherActivity" >
+98-->[:expo-dev-launcher] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-dev-launcher/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-70
+99            <intent-filter>
+99-->[:expo-dev-launcher] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-dev-launcher/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-31:29
+100                <action android:name="android.intent.action.VIEW" />
+100-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:9:7-58
+100-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:9:15-56
+101
+102                <category android:name="android.intent.category.DEFAULT" />
+102-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:27:9-67
+102-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:27:19-65
+103                <category android:name="android.intent.category.BROWSABLE" />
+103-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:10:7-67
+103-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:10:17-65
+104
+105                <data android:scheme="expo-dev-launcher" />
+105-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:11:7-37
+105-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:11:13-35
+106            </intent-filter>
+107        </activity>
+108        <activity
+108-->[:expo-dev-launcher] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-dev-launcher/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:33:9-36:70
+109            android:name="expo.modules.devlauncher.launcher.errors.DevLauncherErrorActivity"
+109-->[:expo-dev-launcher] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-dev-launcher/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:34:13-93
+110            android:screenOrientation="portrait"
+110-->[:expo-dev-launcher] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-dev-launcher/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:35:13-49
+111            android:theme="@style/Theme.DevLauncher.ErrorActivity" />
+111-->[:expo-dev-launcher] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-dev-launcher/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:36:13-67
+112        <activity
+112-->[:expo-dev-menu] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-dev-menu/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-23:20
+113            android:name="expo.modules.devmenu.DevMenuActivity"
+113-->[:expo-dev-menu] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-dev-menu/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-64
+114            android:exported="true"
+114-->[:expo-dev-menu] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-dev-menu/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-36
+115            android:launchMode="singleTask"
+115-->[:expo-dev-menu] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-dev-menu/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-44
+116            android:theme="@style/Theme.AppCompat.Transparent.NoActionBar" >
+116-->[:expo-dev-menu] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-dev-menu/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-75
+117            <intent-filter>
+117-->[:expo-dev-menu] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-dev-menu/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-22:29
+118                <action android:name="android.intent.action.VIEW" />
+118-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:9:7-58
+118-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:9:15-56
+119
+120                <category android:name="android.intent.category.DEFAULT" />
+120-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:27:9-67
+120-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:27:19-65
+121                <category android:name="android.intent.category.BROWSABLE" />
+121-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:10:7-67
+121-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:10:17-65
+122
+123                <data android:scheme="expo-dev-menu" />
+123-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:11:7-37
+123-->/var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/android/app/src/main/AndroidManifest.xml:11:13-35
+124            </intent-filter>
+125        </activity>
+126
+127        <provider
+127-->[:expo-file-system] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:9-32:20
+128            android:name="expo.modules.filesystem.FileSystemFileProvider"
+128-->[:expo-file-system] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-74
+129            android:authorities="ing.luismontesdeoca.FileSystemFileProvider"
+129-->[:expo-file-system] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:13-74
+130            android:exported="false"
+130-->[:expo-file-system] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:13-37
+131            android:grantUriPermissions="true" >
+131-->[:expo-file-system] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-47
+132            <meta-data
+132-->[:expo-file-system] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-31:70
+133                android:name="android.support.FILE_PROVIDER_PATHS"
+133-->[:expo-file-system] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:30:17-67
+134                android:resource="@xml/file_system_provider_paths" />
+134-->[:expo-file-system] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-file-system/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:31:17-67
+135        </provider>
+136
+137        <meta-data
+137-->[:expo-modules-core] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-12:89
+138            android:name="org.unimodules.core.AppLoader#react-native-headless"
+138-->[:expo-modules-core] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-79
+139            android:value="expo.modules.adapters.react.apploader.RNHeadlessAppLoader" />
+139-->[:expo-modules-core] /var/www/html/react/EXPO/LoginExamples/reat-native-login-screem/node_modules/expo-modules-core/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-86
+140
+141        <provider
+141-->[androidx.lifecycle:lifecycle-process:2.2.0] /root/.gradle/caches/transforms-3/3a958f6effb636a52c882ad7c6f2d336/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+142            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+142-->[androidx.lifecycle:lifecycle-process:2.2.0] /root/.gradle/caches/transforms-3/3a958f6effb636a52c882ad7c6f2d336/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+143            android:authorities="ing.luismontesdeoca.lifecycle-process"
+143-->[androidx.lifecycle:lifecycle-process:2.2.0] /root/.gradle/caches/transforms-3/3a958f6effb636a52c882ad7c6f2d336/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+144            android:exported="false"
+144-->[androidx.lifecycle:lifecycle-process:2.2.0] /root/.gradle/caches/transforms-3/3a958f6effb636a52c882ad7c6f2d336/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+145            android:multiprocess="true" />
+145-->[androidx.lifecycle:lifecycle-process:2.2.0] /root/.gradle/caches/transforms-3/3a958f6effb636a52c882ad7c6f2d336/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+146    </application>
+147
+148</manifest>
