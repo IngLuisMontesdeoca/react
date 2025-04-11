@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FlexTracker</string>
+    <string name="title_activity_main">FlexTracker</string>
+    <string name="package_name">com.appvant.flextracker</string>
+    <string name="custom_url_scheme">com.appvant.flextracker</string>
+</resources>
